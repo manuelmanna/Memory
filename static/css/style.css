@@ -57,7 +57,7 @@
     }
 
     .dorso{
-        z-index: 10;
+        z-index: 11;
         backface-visibility: hidden;
         background-image: url(dorsolol.png);
         background-size: cover;
